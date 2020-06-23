@@ -5,3 +5,5 @@ const s = new Set();
 for(let i of s){
   console.log(i);
 }
+
+// Set 结构不会添加重复的值。
